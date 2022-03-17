@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kieran Hardwick - @Kieran260.
+- 👀 I’m interested in Software and A.I.
+- 🌱 I’m currently studying Computer Science at University of Liverpool.
+- 📫 How to reach me: kieranhardwick260@gmail.com
