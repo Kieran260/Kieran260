@@ -1,6 +1,6 @@
 <h2 align="center"> About Me 👨‍💻</h2>
 <p align="start">
-  <samp>Third-year Computer Science student at the University of Liverpool with a keen interest in software engineering. I enjoy designing and building software systems that are user-friendly, efficient and secure, always aiming to meet and exceed user expectations.
+  <samp>Third-year Computer Science student at the University of Liverpool with a keen interest in software engineering, artificial intelligence and algorithms. I enjoy designing and building software projects that incorporate these interests.
   </samp>
 </p>
 
