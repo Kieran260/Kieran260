@@ -1,6 +1,6 @@
 <h2 align="center">About 👨‍💻</h2>
 <p align="start">
-  <samp>Computer science graduate from the University of Liverpool currently working as a software engineer at Ultamation in Liverpool. With a keen interested in programming, algorithms and machine learning -- here I enjoy tinkering with some projects that incorporate these interests.
+  <samp>Computer science graduate from the University of Liverpool, currently a software engineer at Ultamation in Liverpool. With a keen interest in programming, algorithms and machine learning, I enjoy tinkering with some projects that incorporate these interests.
   </samp>
 </p>
 
