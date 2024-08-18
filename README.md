@@ -1,6 +1,6 @@
 <h2 align="center">About 👨‍💻</h2>
 <p align="start">
-  <samp>I am a software engineer at Ultamation in Liverpool. With a Computer Science degree from the University of Liverpool, I am passionate about many areas of software engineering and enjoy working on projects that incorporate a wide range of technologies.
+  <samp>Software engineer at Ultamation in Liverpool. With a Computer Science degree from the University of Liverpool, I am passionate about many areas of software engineering and enjoy working on projects that incorporate a wide range of technologies.
   </samp>
 </p>
 
